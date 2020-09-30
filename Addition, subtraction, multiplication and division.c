@@ -6,10 +6,10 @@ void main ()
 {
 int s, a, b, c;
 printf("Enter no. to perform a function\n
-       1. Addition of 2 numbers\n
-       2. Subtraction of 2 numbers\n
-       3. Multiplication of 2 numbers\n
-       4. Division of 2 numbers\n");
+     Press  1. Addition of 2 numbers\n
+     Press  2. Subtraction of 2 numbers\n
+     Press  3. Multiplication of 2 numbers\n
+      Press 4. Division of 2 numbers\n");
 scanf("%d",&s);
 
 
